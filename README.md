@@ -40,10 +40,10 @@
 ###
 
 <div align="left">
-  <a href="mariaclaracruzdeodato@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/maria-clara-deodato-180ba140b/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-clara-deodato" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/claraquetorceprosport/" target="_blank">
